@@ -54,4 +54,4 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 Feel free to explore my repositories and connect with me!
 
-**Building · Experimenting · Learning in Public **
+**Building · Experimenting · Learning in Public**
