@@ -16,7 +16,7 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Languages
 `Python` · `SQL` · `Java` · `JavaScript` · `TypeScript`
