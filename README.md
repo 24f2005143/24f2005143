@@ -8,11 +8,11 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 ## About Me
 
-- 🎓 Pursuing **BS in Data Science @ IIT Madras**
-- 🤖 Interested in **AI/ML, NLP, and LLMs**
-- 🧠 Exploring machine learning and data-driven solutions
-- 🔨 Building, experimenting, and learning through projects
-- 🌱 Always learning and improving my technical skills
+- Pursuing **BS in Data Science @ IIT Madras**
+- Interested in **AI/ML, NLP, and LLMs**
+- Exploring machine learning and data-driven solutions
+- Building, experimenting, and learning through projects
+- Always learning and improving my technical skills
 
 ---
 
@@ -37,11 +37,11 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 ## Projects
 
-> 🚧 Projects are being added and continuously improved.
+> Projects are being added and continuously improved.
 
 ---
 
-## 🎯 Open To
+## Open To
 
 - AI/ML Internships
 - Data Science Opportunities
@@ -50,8 +50,8 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 Feel free to explore my repositories and connect with me!
 
-**Building · Experimenting · Learning in Public 🚀**
+**Building · Experimenting · Learning in Public **
