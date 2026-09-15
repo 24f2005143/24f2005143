@@ -37,7 +37,11 @@ Building projects in **Artificial Intelligence, Machine Learning, and Data Scien
 
 ## Projects
 
-> Projects are being added and continuously improved.
+- [**NirmanAI**](https://github.com/Abhishekdhama/NirmanAI) - Delivery risk & material-wastage forecasting using XGBoost, LightGBM, SHAP & conformal prediction · *KAYA × IIT Hackathon 2026, Round 2*
+- [**Deal Desk**](https://github.com/23f1002033/deal-desk) - Multi agent AI proposal system using Band SDK & LangGraph with human in the loop approvals · *Band of Agents Hackathon 2026*
+- [**Trekking Management System**](https://github.com/24f2005143/Trekking-Management-Application) — Full-stack Flask app with role-based access control.
+- [**Placement Portal**](https://github.com/24f2005143/placement-portal-application) — Full-stack REST platform built with Flask, jinja2  .
+
 
 ---
 
